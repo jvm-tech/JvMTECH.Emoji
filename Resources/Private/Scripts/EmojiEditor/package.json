@@ -1,0 +1,19 @@
+{
+  "name": "jvmtech-emoji",
+  "version": "1.0.0",
+  "author": "Samuel Hauser <samuel.hauser@jvm.ch>",
+  "license": "MIT",
+  "scripts": {
+    "build": "neos-react-scripts build",
+    "watch": "neos-react-scripts watch"
+  },
+  "neos": {
+    "buildTargetDirectory": "../../../Public/EmojiEditor"
+  },
+  "devDependencies": {
+    "@neos-project/neos-ui-extensibility": "^5.3.4"
+  },
+  "dependencies": {
+    "emoji-mart": "^3.0.0"
+  }
+}

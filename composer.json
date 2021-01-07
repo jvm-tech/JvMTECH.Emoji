@@ -1,0 +1,19 @@
+{
+    "name": "jvmtech/emoji",
+    "description": "Emoji picker for Neos CMS inspector",
+    "type": "neos-plugin",
+    "authors": [
+        {
+            "name": "Samuel Hauser",
+            "email": "samuel.hauser@gmail.com"
+        }
+    ],
+    "require": {
+        "neos/neos-ui": "^5.3"
+    },
+    "extra": {
+        "neos": {
+            "package-key": "JvMTECH.Emoji"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+Neos:
+  Neos:
+    Ui:
+      resources:
+        javascript:
+          'JvMTECH.Emoji:EmojiEditor':
+            resource: resource://JvMTECH.Emoji/Public/EmojiEditor/Plugin.js
+        stylesheets:
+          'JvMTECH.Emoji:EmojiEditor':
+            resource: resource://JvMTECH.Emoji/Public/EmojiEditor/Plugin.css
+
+    userInterface:
+      translation:
+        autoInclude:
+          JvMTECH.Emoji: ['Main']

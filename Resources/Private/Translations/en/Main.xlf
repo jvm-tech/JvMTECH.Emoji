@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="" product-name="JvMTECH.Emoji" source-language="en" datatype="plaintext">
+		<body>
+            <trans-unit id="search" xml:space="preserve">
+				<source>Search</source>
+			</trans-unit>
+            <trans-unit id="clear" xml:space="preserve">
+				<source>Clear</source>
+			</trans-unit>
+            <trans-unit id="notfound" xml:space="preserve">
+				<source>No Emoji Found</source>
+			</trans-unit>
+            <trans-unit id="skintext" xml:space="preserve">
+				<source>Choose your default skin tone</source>
+			</trans-unit>
+            <trans-unit id="categories.search" xml:space="preserve">
+				<source>Search Results</source>
+			</trans-unit>
+            <trans-unit id="categories.recent" xml:space="preserve">
+				<source>Frequently Used</source>
+			</trans-unit>
+            <trans-unit id="categories.smileys" xml:space="preserve">
+				<source>Smileys &amp; Emotion</source>
+			</trans-unit>
+            <trans-unit id="categories.people" xml:space="preserve">
+				<source>People &amp; Body</source>
+			</trans-unit>
+            <trans-unit id="categories.nature" xml:space="preserve">
+				<source>Animals &amp; Nature</source>
+			</trans-unit>
+            <trans-unit id="categories.foods" xml:space="preserve">
+				<source>Food &amp; Drink</source>
+			</trans-unit>
+            <trans-unit id="categories.activity" xml:space="preserve">
+				<source>Activity</source>
+			</trans-unit>
+            <trans-unit id="categories.places" xml:space="preserve">
+				<source>Travel &amp; Places</source>
+			</trans-unit>
+            <trans-unit id="categories.objects" xml:space="preserve">
+				<source>Objects</source>
+			</trans-unit>
+            <trans-unit id="categories.symbols" xml:space="preserve">
+				<source>Symbols</source>
+			</trans-unit>
+            <trans-unit id="categories.flags" xml:space="preserve">
+				<source>Flags</source>
+			</trans-unit>
+            <trans-unit id="categories.custom" xml:space="preserve">
+				<source>Custom</source>
+			</trans-unit>
+            <trans-unit id="categorieslabel" xml:space="preserve">
+				<source>Emoji categories</source>
+			</trans-unit>
+            <trans-unit id="skintones.1" xml:space="preserve">
+				<source>Default Skin Tone</source>
+			</trans-unit>
+            <trans-unit id="skintones.2" xml:space="preserve">
+				<source>Light Skin Tone</source>
+			</trans-unit>
+            <trans-unit id="skintones.3" xml:space="preserve">
+				<source>Medium-Light Skin Tone</source>
+			</trans-unit>
+            <trans-unit id="skintones.4" xml:space="preserve">
+				<source>Medium Skin Tone</source>
+			</trans-unit>
+            <trans-unit id="skintones.5" xml:space="preserve">
+				<source>Medium-Dark Skin Tone</source>
+			</trans-unit>
+            <trans-unit id="skintones.6" xml:space="preserve">
+				<source>Dark Skin Tone</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

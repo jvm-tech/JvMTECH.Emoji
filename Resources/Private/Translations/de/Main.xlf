@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="" product-name="JvMTECH.Emoji" source-language="de" datatype="plaintext">
+		<body>
+            <trans-unit id="search" xml:space="preserve">
+				<source>Suche</source>
+			</trans-unit>
+            <trans-unit id="clear" xml:space="preserve">
+				<source>Löschen</source>
+			</trans-unit>
+            <trans-unit id="notfound" xml:space="preserve">
+				<source>Kein Emoji gefunden</source>
+			</trans-unit>
+            <trans-unit id="skintext" xml:space="preserve">
+				<source>Wählen Sie Ihren Standard-Hautton</source>
+			</trans-unit>
+            <trans-unit id="categories.search" xml:space="preserve">
+				<source>Suchergebnisse</source>
+			</trans-unit>
+            <trans-unit id="categories.recent" xml:space="preserve">
+				<source>Häufig verwendet</source>
+			</trans-unit>
+            <trans-unit id="categories.smileys" xml:space="preserve">
+				<source>Smileys &amp; Emotionen</source>
+			</trans-unit>
+            <trans-unit id="categories.people" xml:space="preserve">
+				<source>Menschen &amp; Körper</source>
+			</trans-unit>
+            <trans-unit id="categories.nature" xml:space="preserve">
+				<source>Tiere &amp; Natur</source>
+			</trans-unit>
+            <trans-unit id="categories.foods" xml:space="preserve">
+				<source>Essen &amp; Trinken</source>
+			</trans-unit>
+            <trans-unit id="categories.activity" xml:space="preserve">
+				<source>Aktivität</source>
+			</trans-unit>
+            <trans-unit id="categories.places" xml:space="preserve">
+				<source>Reisen &amp; Orte</source>
+			</trans-unit>
+            <trans-unit id="categories.objects" xml:space="preserve">
+				<source>Objekte</source>
+			</trans-unit>
+            <trans-unit id="categories.symbols" xml:space="preserve">
+				<source>Symbole</source>
+			</trans-unit>
+            <trans-unit id="categories.flags" xml:space="preserve">
+				<source>Flaggen</source>
+			</trans-unit>
+            <trans-unit id="categories.custom" xml:space="preserve">
+				<source>Benutzerdefiniert</source>
+			</trans-unit>
+            <trans-unit id="categorieslabel" xml:space="preserve">
+				<source>Emoji Kategorien</source>
+			</trans-unit>
+            <trans-unit id="skintones.1" xml:space="preserve">
+				<source>Standard Hautton</source>
+			</trans-unit>
+            <trans-unit id="skintones.2" xml:space="preserve">
+				<source>Heller Hautton</source>
+			</trans-unit>
+            <trans-unit id="skintones.3" xml:space="preserve">
+				<source>Mittel-heller Hautton</source>
+			</trans-unit>
+            <trans-unit id="skintones.4" xml:space="preserve">
+				<source>Mittlerer Hautton</source>
+			</trans-unit>
+            <trans-unit id="skintones.5" xml:space="preserve">
+				<source>Mittel-dunkler Hautton</source>
+			</trans-unit>
+            <trans-unit id="skintones.6" xml:space="preserve">
+				<source>Dunkler Hautton</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
