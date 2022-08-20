@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "neos/neos-ui": "^5.3"
+        "neos/neos-ui": ">=5.3"
     },
     "extra": {
         "neos": {
